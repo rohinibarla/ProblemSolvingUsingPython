@@ -12,6 +12,6 @@ Study these three files:
 
 Play with code, for any doubts, ask.
 
-# Note:
+## Note:
 
 answer the questions in each of the 3 files and commit the changes.
